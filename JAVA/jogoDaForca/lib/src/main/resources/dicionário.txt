@@ -1,0 +1,13 @@
+teclado
+mouse
+monitor
+cpu
+gpu
+gabinete
+processador
+fonte
+ram
+rom
+hd
+ssd
+cooler
