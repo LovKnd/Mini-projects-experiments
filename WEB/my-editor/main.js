@@ -193,7 +193,7 @@ const templateMenu = [
       {
         label: 'GitHub',
         click(){
-          shell.openExternal('https://github.com/LovKnd/Mini-projects-experiments/tree/main/WEB/Fogo do Doom/my-editor')
+          shell.openExternal('https://github.com/LovKnd/Mini-projects-experiments/tree/master/WEB/my-editor')
         }
       }
     ]
